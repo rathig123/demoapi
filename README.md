@@ -79,8 +79,7 @@ If validation fails, the API returns meaningful error messages.
 - Unique ID generation using AtomicLong
 
 ## Live Demo (Deployed Application)
-After deployment, add your Render link here:
-Example: https://demoapi.onrender.com/api/items
+https://demoapi-35vc.onrender.com
 
 ## Author
 Developed by Rathi G
